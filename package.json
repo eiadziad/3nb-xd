@@ -1,0 +1,35 @@
+{
+  "name": "3nb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1537.0",
+    "axios": "^1.7.2",
+    "canvas": "^2.11.2",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "mathjs": "^12.4.2",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.44",
+    "node-fetch": "^3.3.2",
+    "open": "^8.4.2",
+    "openai": "^4.55.9",
+    "puppeteer": "^21.1.0",
+    "random-words": "^2.0.1",
+    "request": "^2.88.2",
+    "socket.io": "^4.8.1",
+    "sqlite3": "^5.1.6",
+    "tmi.js": "^1.8.5",
+    "twit": "^2.2.11"
+  },
+  "keywords": [],
+  "description": ""
+}
